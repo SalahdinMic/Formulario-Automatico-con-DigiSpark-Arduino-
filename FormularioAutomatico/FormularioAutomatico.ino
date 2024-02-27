@@ -7,7 +7,7 @@ void setup() {
   DigiKeyboard.sendKeyStroke(0);
   DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
   DigiKeyboard.delay(100);
-  DigiKeyboard.print("opera");
+  DigiKeyboard.print("(Aqui pones tu navegador, puede ser chrome, opera, medge, etc etc etc)");
   DigiKeyboard.delay(100);   
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(2000);  // Retardo después de abrir Opera
